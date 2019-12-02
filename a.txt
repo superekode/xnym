@@ -4,3 +4,4 @@ bbbbbbbb
 ccccccccccca
 
 update git_slave... update git_slave
+update git_slave... master..brach
